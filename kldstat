@@ -1,0 +1,24 @@
+Id Refs Address                Size Name
+ 1  101 0xffffffff80200000  227ae98 kernel
+ 2    1 0xffffffff8247b000    40e70 iichid.ko
+ 3    2 0xffffffff824bc000     afa0 iicbus.ko
+ 4    2 0xffffffff824c7000     a448 opensolaris.ko
+ 5    1 0xffffffff824d2000     7f78 acpi_video.ko
+ 6    1 0xffffffff824da000   3bad38 zfs.ko
+ 7    1 0xffffffff82ce6000   12bd6c i915kms.ko
+ 8    1 0xffffffff82e12000    75c50 drm.ko
+ 9    4 0xffffffff82e88000    12d30 linuxkpi.ko
+10    3 0xffffffff82e9b000    13f30 linuxkpi_gplv2.ko
+11    2 0xffffffff82eaf000      6d0 debugfs.ko
+12    1 0xffffffff82eb0000    16bf0 if_iwm.ko
+13    1 0xffffffff82ec7000   10046f iwm7260fw.ko
+14    1 0xffffffff82fc8000     4260 ng_ubt.ko
+15    6 0xffffffff82fcd000     9bd0 netgraph.ko
+16    2 0xffffffff82fd7000     9128 ng_hci.ko
+17    3 0xffffffff82fe1000      9b0 ng_bluetooth.ko
+18    1 0xffffffff82fe2000     caf0 ng_l2cap.ko
+19    1 0xffffffff82fef000    1af20 ng_btsocket.ko
+20    1 0xffffffff8300a000     2150 ng_socket.ko
+21    1 0xffffffff8300d000      980 pflog.ko
+22    1 0xffffffff8300e000    32a08 pf.ko
+23    1 0xffffffff83041000     88c0 tmpfs.ko
